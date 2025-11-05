@@ -26,3 +26,23 @@ Bagian 3:
         }
 
 Pada bagian 3 program melakukan perulangan dari i = 1 sampai i = angka, dan setiap kali perulangan, nilai bilangan dikalikan dengan i
+Contoh kalau angka = 5:
+
+i	bilangan (hasil sementara)
+1	1 × 1 = 1
+2	1 × 2 = 2
+3	2 × 3 = 6
+4	6 × 4 = 24
+5	24 × 5 = 120
+
+Jadi hasil akhirnya adalah 120, yaitu 5!.
+
+Bagian 4:
+
+        System.out.println("Faktorial dari " + angka + " adalah " + bilangan);
+
+Program mengeluarkan output berupa hasil dari faktorial yang di input pengguna.
+
+Screenshot hasil program:
+
+<img width="1479" height="454" alt="Cuplikan layar 2025-11-04 165232" src="https://github.com/user-attachments/assets/0d8e7e25-5ea5-4a9e-b7a0-ec4c496db46a" />
