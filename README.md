@@ -26,16 +26,15 @@ Bagian 3:
         }
 
 Pada bagian 3 program melakukan perulangan dari i = 1 sampai i = angka, dan setiap kali perulangan, nilai bilangan dikalikan dengan i
-Contoh kalau angka = 5:
+Contoh kalau angka = 4:
 
 i	bilangan (hasil sementara)
 1	1 × 1 = 1
 2	1 × 2 = 2
 3	2 × 3 = 6
 4	6 × 4 = 24
-5	24 × 5 = 120
 
-Jadi hasil akhirnya adalah 120, yaitu 5!.
+Jadi hasil akhirnya adalah 24, yaitu 4!.
 
 Bagian 4:
 
